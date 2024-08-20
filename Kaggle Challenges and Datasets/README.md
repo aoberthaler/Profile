@@ -1,3 +1,1 @@
-# Profile
-
-## Hello World!!!
+## This repository consists of interesting Kaggle datasets and challenges which I have analyzed/predicted and scored within the top 5 percent.
