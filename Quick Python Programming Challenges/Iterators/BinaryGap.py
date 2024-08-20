@@ -39,6 +39,6 @@ def solution(N):
         return max(diff_list)-1
     pass
 
-print(solution(N))
+print(solution(1041))
 
 
