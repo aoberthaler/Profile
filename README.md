@@ -20,7 +20,7 @@ Repository containing self-solved Codility-style challenges focused on quickly u
 Example of a dashboard and API (formerly hosted on Render), built to visualize consumer buying behavior and marketing trends.
 
 
-### 🔒 Private Repositories (Not Visible To Visitors, access or walkthough can be provided upon request)
+### 🔒 Private Repositories (access or walkthough can be provided upon request)
 
 - **🌦️weather_event_predictor**
 Local forecasting engine designed to predict weather events and compute probabilities for threshold-based verification using publicly available station data (ML-based MOS).
