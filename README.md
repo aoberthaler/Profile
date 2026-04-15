@@ -1,15 +1,18 @@
-# 👋 Hello World!!!
+## 👋 Hello World!!!
 ---
 
 #### My name is Andrew Oberthaler. I am an American-born data scientist with over 15 years of experience applying algorithms across the marketing, energy, transport, and environmental sectors.
 
 #### This page is primarily for self-learning, but also serves as a showcase of my work. I aim to keep it updated, although maintenance varies depending on time availability.
 
-----
+***
 
-# 📂 Description of Work / Repositories
+## 📂 Description of Work / Repositories
+---
 
-## 🌐 Public Repositories (Vistors have full access) 
+### 🌐 Public Repositories (Vistors have full access)
+---
+
 
 ### 🚀 Quick Python Programming Challenges
 Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
