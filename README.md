@@ -14,9 +14,7 @@
 #### This repository is an example of a dashboard and API formerly hosted on Render, which I created for a friend to view consumer buying and marketing trends.
 
 ## Private Repositories (Can not be seen by default to visitors, but can be made available on demand)
-<span style="color:red;">
-### <weather_event_predictor
-</span>
+<h2><span style="color:red;">Weather Event Predictor</span></h2>
 #### Local Engine which I created to forecast weather and compute probabilities of on-demand verify weather events and threshold as they relate to publicly available station data (ML-based MOS)
 
 #### Historical Weather Input Data via open-meteo
