@@ -6,6 +6,7 @@ My name is Andrew Oberthaler. I am an American-born data scientist with over 15 
 This page is primarily for self-learning, but also serves as a showcase of my work. I aim to keep it updated, although maintenance varies depending on time availability.
 
 ***
+***
 
 ## 📂 Description of Work / Repositories
 ---
