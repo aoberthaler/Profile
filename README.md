@@ -12,10 +12,10 @@ This page is primarily for self-learning, but also serves as a showcase of my wo
 ### 🌐 Public Repositories (Vistors have full access)
 ---
 
-#### 🚀 Quick Python Programming Challenge
+- **🚀 Quick Python Programming Challenge**
 Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
 
-#### 📊 Refindable Dash
+- **📊 Refindable Dash**
 Example of a dashboard and API (formerly hosted on Render), built to visualize consumer buying behavior and marketing trends.
 
 
