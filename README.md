@@ -10,7 +10,7 @@ This page is primarily for self-learning, but also serves as a showcase of my wo
 
 
 ### 🌐 Public Repositories (Vistors have full access)
----
+- - - - - - - - - - - - - -
 
 #### 🚀 Quick Python Programming Challenges
 Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
