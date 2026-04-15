@@ -1,9 +1,9 @@
 ### 👋 Hello World!!!
 ---
 
-#### My name is Andrew Oberthaler. I am an American-born data scientist with over 15 years of experience applying algorithms across the marketing, energy, transport, and environmental sectors.
+My name is Andrew Oberthaler. I am an American-born data scientist with over 15 years of experience applying algorithms across the marketing, energy, transport, and environmental sectors.
 
-#### This page is primarily for self-learning, but also serves as a showcase of my work. I aim to keep it updated, although maintenance varies depending on time availability.
+This page is primarily for self-learning, but also serves as a showcase of my work. I aim to keep it updated, although maintenance varies depending on time availability.
 
 ***
 
