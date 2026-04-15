@@ -5,11 +5,24 @@
 
 # Description of Work / Repositories
 
-## Quick Python Programming Challenges (Public Repo)
+## Public Repositories (Visitors have full access to these repositories)
+
+### Quick Python Programming Challenges
 #### This repository consists of a number of self-solved codility challenges which test abililty to quickly understand and solve basic algorithms and python syntax.
 
-## Kaggle Challenges and Datasets
-### This repository consists of interesting Kaggle datasets and challenges which I have analyzed/predicted and scored within the top 5 percent.
+### Refindable Dash
+#### This repository is an example of a dashboard and API formerly hosted on Render, which I created for a friend to view consumer buying and marketing trends.
 
-## Own Projects (WIP)
-### Contains some of my own projects and topics which I find interesting for prediction.
+## Private Repositories (Can not be seen by default to visitors, but can be made available on demand)
+### weather_event_predictor
+#### Local Engine which I created to forecast weather and compute probabilities of on-demand verify weather events and threshold as they relate to publicly available station data (ML-based MOS)
+
+#### Historical Weather Input Data via open-meteo
+#### Station Weather Input Data vis NOAA-GHCP
+
+### Climaterra
+#### Total self-created frontend and backend code + ML infrastructure for Climaterra climate-prediction project (www.climaterra.com)
+
+### Sparring Buddy
+#### This repository consists of all frontend and backend code + ML infrastructure for Deal Forge Sparring Project
+
