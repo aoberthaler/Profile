@@ -22,9 +22,8 @@ Example of a dashboard and API (formerly hosted on Render), built to visualize c
 
 - **🌦️weather_event_predictor**
 Local forecasting engine designed to predict weather events and compute probabilities for threshold-based verification using publicly available station data (ML-based MOS).
-
-- Historical Weather Input Data via open-meteo  
-- Station Weather Input Data via NOAA-GHCP  
+  - Historical Weather Input Data via open-meteo
+  - Station Weather Input Data via NOAA-GHCP  
 
 - **🌍 Climaterra**
 End-to-end system including frontend, backend, and machine learning infrastructure for the Climaterra climate prediction project.  
