@@ -1,29 +1,56 @@
-# Hello World!!! 
+# 👋 Hello World!!!
 
-#### My name is Andrew Oberthaler. I am an American-born data scientist with over 15 years of experience applying algorithms of all types in the marketing, energy, transport, and environmental sectors.
-#### I have created this page primarily for self-learning, but also to showcase some of my work.  I try to keep it updated to the best of ability, but depending on my time restrictions, there are various levels of dedication to maintenance of these pages.
+#### My name is Andrew Oberthaler. I am an American-born data scientist with over 15 years of experience applying algorithms across the marketing, energy, transport, and environmental sectors.
 
-# Description of Work / Repositories
+#### This page is primarily for self-learning, but also serves as a showcase of my work. I aim to keep it updated, although maintenance varies depending on time availability.
 
-## Public Repositories (Visitors have full access to these repositories)
+---
 
-<h3 style="color:red;">Quick Python Programming Challenges</h3>
-#### This repository consists of a number of self-solved codility challenges which test abililty to quickly understand and solve basic algorithms and python syntax.
+# 📂 Description of Work / Repositories
 
-<h3 style="color:red;">Refindable Dash</h3>
-#### This repository is an example of a dashboard and API formerly hosted on Render, which I created for a friend to view consumer buying and marketing trends.
+## 🌐 Public Repositories  
+*(Visitors have full access)*
 
-## Private Repositories (Can not be seen by default to visitors, but can be made available on demand)
+### 🚀 Quick Python Programming Challenges
+Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
 
-<h3 style="color:red;">weather_event_predictor</h3>
-#### Local Engine which I created to forecast weather and compute probabilities of on-demand verify weather events and threshold as they relate to publicly available station data (ML-based MOS)
+---
 
-#### Historical Weather Input Data via open-meteo
-#### Station Weather Input Data vis NOAA-GHCP
+### 📊 Refindable Dash
+Example of a dashboard and API (formerly hosted on Render), built to visualize consumer buying behavior and marketing trends.
 
-<h3 style="color:red;">Climaterra</h3>
-#### Total self-created frontend and backend code + ML infrastructure for Climaterra climate-prediction project (www.climaterra.com)
+---
 
-<h3 style="color:red;">Sparring Buddy</h3>
-#### This repository consists of all frontend and backend code + ML infrastructure for Deal Forge Sparring Project
+## 🔒 Private Repositories  
+*(Available upon request)*
+
+### 🌦️ weather_event_predictor
+Local forecasting engine designed to predict weather events and compute probabilities for threshold-based verification using publicly available station data (ML-based MOS).
+
+- Historical Weather Input Data via open-meteo  
+- Station Weather Input Data via NOAA-GHCP  
+
+---
+
+### 🌍 Climaterra
+End-to-end system including frontend, backend, and machine learning infrastructure for the Climaterra climate prediction project.  
+👉 www.climaterra.com
+
+---
+
+### 🥊 Sparring Buddy
+Full-stack application (frontend, backend, and ML components) developed for the Deal Forge Sparring Project.
+
+---
+
+# 🧠 Skills & Focus Areas
+- Machine Learning & Predictive Modeling  
+- Weather & Climate Data Analysis  
+- API Development & Data Pipelines  
+- Algorithm Design & Optimization  
+
+---
+
+# 📫 Contact / Notes
+Feel free to reach out if you'd like access to private repositories or want to collaborate.
 
