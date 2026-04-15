@@ -8,8 +8,7 @@
 
 # 📂 Description of Work / Repositories
 
-## 🌐 Public Repositories  
-*(Visitors have full access)*
+## 🌐 Public Repositories (Vistors have full access) 
 
 ### 🚀 Quick Python Programming Challenges
 Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
@@ -19,10 +18,8 @@ Repository containing self-solved Codility-style challenges focused on quickly u
 ### 📊 Refindable Dash
 Example of a dashboard and API (formerly hosted on Render), built to visualize consumer buying behavior and marketing trends.
 
----
 
-## 🔒 Private Repositories  
-*(Available upon request)*
+## 🔒 Private Repositories (Access or walkthough can be provided upon request)
 
 ### 🌦️ weather_event_predictor
 Local forecasting engine designed to predict weather events and compute probabilities for threshold-based verification using publicly available station data (ML-based MOS).
