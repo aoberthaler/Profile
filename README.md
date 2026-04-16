@@ -16,8 +16,8 @@ I aim to keep this profile updated, although maintenance varies depending on my 
 - **🚀 quick_python_programming_challenge**
 Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
 
-- **📊 refindable_dash**
-Example of a dashboard and API (formerly hosted on Render), built to visualize consumer buying behavior and marketing trends.
+- **📊 heat_map_dash**
+Example of a dashboard and API (formerly hosted on Render), built initially for a friend to visualize geographic customer and retailer buying/selling trends.
 
 
 ### 🔒 Private Repositories (access or walkthough can be provided upon request)
