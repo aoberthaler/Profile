@@ -11,7 +11,7 @@ I aim to keep this profile updated, although maintenance varies depending on my 
 ---
 
 
-### 🌐 Public Repositories (Vistors have full access)
+### 🌐 Public Repositories (vistors have full access)
 
 - **🚀 quick_python_programming_challenge**
 Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
