@@ -1,1 +1,0 @@
-## This repository contains some of my own projects and topics which I find interesting for prediction.
