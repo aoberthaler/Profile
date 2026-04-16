@@ -13,24 +13,24 @@ I aim to keep this profile updated, although maintenance varies depending on my 
 
 ### 🌐 Public Repositories (Vistors have full access)
 
-- **🚀 Quick Python Programming Challenge**
+- **🚀 quick_python_programming_challenge**
 Repository containing self-solved Codility-style challenges focused on quickly understanding and implementing algorithms and Python fundamentals.
 
-- **📊 Refindable Dash**
+- **📊 refindable_dash**
 Example of a dashboard and API (formerly hosted on Render), built to visualize consumer buying behavior and marketing trends.
 
 
 ### 🔒 Private Repositories (access or walkthough can be provided upon request)
 
-- **🌦️weather_event_predictor**
+- **🌦️weather_event_probability_predictor**
 Local forecasting engine designed to predict weather events and compute probabilities for threshold-based verification using publicly available station data (ML-based MOS).
   - Historical Weather Input Data via open-meteo
   - Station Weather Input Data via NOAA-GHCP  
 
-- **🌍 Climaterra**
+- **🌍 climaterra**
 Self-created end-to-end full-stack application (frontend, backend, and machine learning infrastructure) for the Climaterra climate prediction project.  
 
-- **🥊 Sparring Buddy**
+- **🥊 sparring_buddy**
 Self-created end-to-end full-stack application (frontend, backend, and ML and LLM components) developed for the Deal Forge Sparring Project.
 
 ---
