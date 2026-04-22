@@ -19,6 +19,9 @@ Repository containing self-solved Codility-style challenges focused on quickly u
 - **📊 heat_map_dash**
 Example of a dashboard and API (formerly hosted on Render), built initially for a friend to visualize geographic customer and retailer buying/selling trends.
 
+- **🌍 prognogeo_frontend**
+Self-created frontend for the Prognogeo climate prediction project. 
+
 
 ### 🔒 Private Repositories (access or walkthough can be provided upon request)
 
@@ -27,8 +30,8 @@ Local forecasting engine designed to predict weather events and compute probabil
   - Historical Weather Input Data via open-meteo
   - Station Weather Input Data via NOAA-GHCP  
 
-- **🌍 climaterra**
-Self-created end-to-end full-stack application (frontend, backend, and machine learning infrastructure) for the Climaterra climate prediction project.  
+- **🌍 prognogeo**
+Self-created end-to-end backend processing (backend, and machine learning infrastructure) for the Prognogeo climate prediction project.
 
 - **🥊 sparring_buddy**
 Self-created end-to-end full-stack application (frontend, backend, and ML and LLM components) developed for the Deal Forge Sparring Project.
